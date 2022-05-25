@@ -225,7 +225,8 @@ img:hover{
 h6:hover {
 box-shadow: 20px 0 20px 0;
 background-color: #ccb496;
-color: gold;
+color: rgb(203, 198, 168);
+
 }
 
 h6{
@@ -271,14 +272,14 @@ p2 {
 
 p2:hover{
   box-shadow: 20px 0 20px 0;
-
+color: rgb(126, 73, 73);
 }
 
 
 
 p3:hover{
   box-shadow: 20px 0 20px 0;
-
+color: rgb(126, 73, 73);
 }
 
 
